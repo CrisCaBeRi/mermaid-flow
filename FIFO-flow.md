@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Inicio] --> B[Recibir solicitud de reserva]
     B --> C{¿Hay asientos disponibles?}
@@ -16,3 +17,4 @@ graph TD
     L --> F
     J -- No --> F
     H -- No --> F
+```
